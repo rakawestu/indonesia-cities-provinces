@@ -1,0 +1,25 @@
+{
+  "name": "uh-region",
+  "version": "1.0.0",
+  "description": "list of cities and provinces in indonesia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urbanhire/indonesia-cities-provinces.git"
+  },
+  "keywords": [
+    "indonesia",
+    "provinces",
+    "cities",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/urbanhire/indonesia-cities-provinces/issues"
+  },
+  "homepage": "https://github.com/urbanhire/indonesia-cities-provinces#readme"
+}
